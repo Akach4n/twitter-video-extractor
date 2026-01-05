@@ -1,0 +1,16 @@
+# Carpetas de Python
+__pycache__/
+*.pyc
+
+# Carpetas de resultados 
+twitter_extract/
+
+# Archivos multimedia sueltos
+*.mp4
+*.mp3
+*.jpg
+*.png
+*.gif
+
+# Configuración de editores
+.vscode/
