@@ -1,13 +1,31 @@
-# X (Twitter) Video & GIF Downloader
+<div align="center">
 
-Herramienta sencilla en Python para extraer contenido de X.
+# 𝕏 Content Extractor
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
-## 📢 Nota del autor
-Este script no ha sido creado 100% desde cero por mí. Es una herramienta ensamblada y refinada utilizando diversas librerías de código abierto y asistencia de IA para facilitar la descarga de contenido sin anuncios. ¡Siéntete libre de copiarlo, modificarlo y mejorarlo como quieras!
+*Una herramienta sencilla y potente para descargar contenido de X (Twitter) sin complicaciones.*
 
-## 🚀 Instalación
-1. Clona el repo: `git clone https://github.com/tu-usuario/nombre-repo.git`
-2. Instala dependencias: `pip install -r requirements.txt`
+</div>
 
-## 🛠️ Uso
-Ejecuta `python extractor.py` y elige entre MP4, GIF o Imagen.
+---
+
+## 📖 Sobre el proyecto
+Este script permite extraer **Vídeos, GIFs e Imágenes** de X simplemente pegando la URL. Está diseñado para ser ligero, rápido y, sobre todo, respetuoso con tu privacidad.
+
+> [!IMPORTANT]
+> **Nota de autor:** Este proyecto ha sido ensamblado utilizando librerías de código abierto y asistencia de IA. Es de libre uso y modificación. ¡Siéntete libre de mejorarlo!
+
+## 🚀 Características
+- ✨ Descarga de vídeos en máxima calidad (.mp4)
+- 🖼️ Extracción de imágenes originales (.jpg)
+- 🎞️ Conversión automática de clips a GIF.
+- 📁 Organización automática en carpetas.
+
+## 🛠️ Instalación
+Para que todo funcione, necesitas tener Python instalado y ejecutar:
+
+```bash
+pip install -r requirements.txt
